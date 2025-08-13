@@ -88,7 +88,17 @@ Producing with the community strengthens our technical identity.
 `#technical-reflection` `#ubuntu` `#curl` `#port-scan` `#vulnerability-analysis` `#open-source`
 
 ---
+---
 
+## 🔗 Backlink Zone / Bağlantı Alanı
+
+📘 [Penetration Test & Reflection](penetration-reflection.md)  
+🧠 Apache ve CUPS üzerinde yapılan sızma testleri ve teknik muhakeme süreci
+
+📘 [README (Bu Sayfa)](README.md)  
+🧠 Repo yapısı, katkı çağrısı ve üretici notu
+
+📣 Katkı çağrısı: Yeni test belgeleri, yorumlar ve düzeltmelerle bu arşivi birlikte büyütelim.
 ### 📅 Test Date
 
 August 2025 – Real-time testing on Ubuntu VM
